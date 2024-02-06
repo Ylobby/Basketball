@@ -1,6 +1,6 @@
 function Next()
 {
-    window.location ="Career.html";
+    window.location ="career.html";
 }
 
 function Previous()
